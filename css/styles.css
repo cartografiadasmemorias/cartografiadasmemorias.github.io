@@ -6058,6 +6058,14 @@ button.bg-primary:focus {
   background-color: #b2c9c9!important;
 }
 
+.bg-3 {
+  background-color: #f9f5e4!important;
+}
+
+.bg-4 {
+  background-color: #981e3a!important;
+}
+
 a.bg-secondary:hover, a.bg-secondary:focus,
 button.bg-secondary:hover,
 button.bg-secondary:focus {
@@ -9722,7 +9730,11 @@ button.bg-dark:focus {
 }
 
 .text-white {
-  color: #fff !important;
+  color: #f9f5e4 !important;
+}
+
+.text-blue {
+  color: #b2c9c9 !important;
 }
 
 .text-primary {
@@ -9972,6 +9984,13 @@ h3 {
 }
 .divider-custom.divider-light .divider-custom-icon {
   color: #fff !important;
+}
+
+.divider-custom.divider-blue .divider-custom-line {
+  background-color: #b2c9c9;
+}
+.divider-custom.divider-blue .divider-custom-icon {
+  color: #b2c9c9 !important;
 }
 
 .btn-xl {
