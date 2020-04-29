@@ -136,10 +136,12 @@ a {
   color: #981e3a;
   text-decoration: none;
   background-color: transparent;
+  text-transform: uppercase;
 }
 a:hover {
-  color: #117964;
+  color: #981a00;
   text-decoration: underline;
+  text-transform: uppercase;
 }
 
 a:not([href]) {
@@ -10022,7 +10024,7 @@ h3 {
   color: #dfcbc3;
 }
 #mainNav .navbar-nav li.nav-item a.nav-link.active {
-  color: #b2c9c9;
+  color: #f9f5d4;
 }
 #mainNav .navbar-toggler {
   font-size: 80%;
@@ -10178,8 +10180,8 @@ form .row:first-child .floating-label-form-group {
 }
 
 .footer {
-  padding-top: 2rem;
-  padding-bottom: 1rem;
+  padding-top: 3rem;
+  padding-bottom: 2rem;
   background-color: #981e3a;
   color: #f9f5d4;
 }
