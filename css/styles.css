@@ -87,6 +87,18 @@ address {
   line-height: inherit;
 }
 
+hr{ 
+  height: 1px;
+  border: none;
+  border-color: cyan;
+  width:61%; 
+  text-align:center; 
+  margin-left:19%; 
+  color: #f9f5e4;
+  background-color: #f9f5e4;
+}
+
+
 ol,
 ul,
 dl {
@@ -3964,7 +3976,7 @@ input[type=button].btn-block {
   flex-wrap: wrap;
   align-items: center;
   justify-content: space-between;
-  padding: 1.2rem 1rem;
+  padding: 2rem 1rem;
 }
 .navbar .container,
 .navbar .container-fluid,
