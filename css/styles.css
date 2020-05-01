@@ -2,7 +2,7 @@
 
 :root {
   --rosa: #dfcbc3;
-  --creme: #f9f5d4;
+  --creme: #f9f5e4;
   --azul: #d4d9dc;
   --vermelho: #981e3a;
   --verde: darkcyan;
@@ -147,7 +147,7 @@ a {
   
 }
 a:hover {
-  color: #f9f5d4;
+  color: #f9f5e4;
 }
 
 a:not([href]) {
@@ -9641,6 +9641,11 @@ button.bg-dark:focus {
   padding-right: 9% !important;
 }
 
+.text-left-nav {
+  text-align: left !important;
+  padding-left: 2.3% !important;
+  padding-right: 2.3% !important;
+}
 .text-right {
   text-align: right !important;
 }
@@ -10057,7 +10062,7 @@ h3 {
   color: #dfcbc3;
 }
 #mainNav .navbar-nav li.nav-item a.nav-link.active {
-  color: #f9f5d4;
+  color: #f9f5e4;
 }
 #mainNav .navbar-toggler {
   font-size: 80%;
@@ -10078,11 +10083,11 @@ h3 {
     margin-top: 0;
   }
   #mainNav .navbar-nav > li.nav-item > a.nav-link.active {
-    color: #f9f5d4;
+    color: #f9f5e4;
     background: #d4d9dc;
   }
   #mainNav .navbar-nav > li.nav-item > a.nav-link.active:active, #mainNav .navbar-nav > li.nav-item > a.nav-link.active:focus, #mainNav .navbar-nav > li.nav-item > a.nav-link.active:hover {
-    color: #f9f5d4;
+    color: #f9f5e4;
     background: #d4d9dc;
   }
 
@@ -10216,7 +10221,7 @@ form .row:first-child .floating-label-form-group {
   padding-top: 3rem;
   padding-bottom: 2rem;
   background-color: #981e3a;
-  color: #f9f5d4;
+  color: #f9f5e4;
 }
 
 .copyright {
