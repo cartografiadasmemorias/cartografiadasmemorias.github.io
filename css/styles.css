@@ -146,6 +146,7 @@ a {
   font-family: "Open Sans", sans-serif;
   font-weight: bold !important;
   letter-spacing: 0.08em;
+  vertical-align:middle;
   
 }
 a:hover {
