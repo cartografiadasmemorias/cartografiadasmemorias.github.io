@@ -27,7 +27,7 @@ summary{
   display:list-item}
 audio,canvas,progress,video{display:inline-block}progress{vertical-align:baseline}
 audio:not([controls]){display:none;height:0}[hidden],template{display:none}
-a{background-color:transparent; font-weight:bold; text-decoration:none !important }a:active,a:hover{color:#d4d9dc !important;outline-width:0}
+a{background-color:transparent; font-weight:bold; text-decoration:none !important }a:active,a:hover{color:#f9f5e4 !important;outline-width:0}
 abbr[title]{border-bottom:none;}
 b,strong{font-weight:bolder}dfn{font-style:italic}mark{background:#ff0;color:#000}
 small{font-size:80%}sub,sup{font-size:75%;line-height:0;position:relative;vertical-align:baseline}
@@ -72,7 +72,7 @@ hr{border:0;border-top:1px solid #eee;margin:20px 0}
 .w3-dropdown-hover:hover > .w3-button:first-child,.w3-dropdown-click:hover > .w3-button:first-child{background-color:#ccc;color:#000}
 .w3-dropdown-content{cursor:auto;color:#000;background-color:#fff;display:none;position:absolute;min-width:160px;margin:0;padding:0;z-index:1}
 .w3-check,.w3-radio{width:24px;height:24px;position:relative;top:6px}
-.w3-sidebar{height:100%;width:500px !important;background-color:#f9f5e4;padding:2%; color:#b11737; position:fixed!important;z-index:1;overflow:auto}
+.w3-sidebar{height:100%;width:500px !important;background-color:#dfcbc3;padding:40px; color:#b11737; position:fixed!important;z-index:1;overflow:auto}
 .w3-bar-block .w3-dropdown-hover,.w3-bar-block .w3-dropdown-click{width:10%}
 .w3-bar-block .w3-dropdown-hover .w3-dropdown-content,.w3-bar-block .w3-dropdown-click .w3-dropdown-content{min-width:100%}
 .w3-bar-block .w3-dropdown-hover .w3-button,.w3-bar-block .w3-dropdown-click .w3-button{width:100%;text-align:left;padding:8px 16px; color: red;}
