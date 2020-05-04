@@ -101,12 +101,24 @@ button,input,select,textarea,optgroup{
   font:inherit;margin:0
 }
 
+.menu-fixo {
+  overflow: hidden;
+  background-color: #d4d9dc;
+  position: fixed; /* Set the navbar to fixed position */
+  top: 0; /* Position the navbar at the top of the page */
+  width: 100%; /* Full width */
+}
+
 optgroup
   {
     font-weight:bold
 }
 button,input{
   overflow:visible
+}
+
+button{
+  position: sticky !important;
 }
 
 button,select{
