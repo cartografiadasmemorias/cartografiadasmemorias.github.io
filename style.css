@@ -108,6 +108,38 @@ button,input,select,textarea,optgroup{
   width: 100%; /* Full width */
 }
 
+
+.fa {
+  font-size: 25px !important;
+  width: 50px;
+  text-align: center;
+  text-decoration: none;
+  margin: 5px 2px;
+  padding-right: 15px !important;
+  padding-top: 25px !important;
+}
+
+.fa:hover {
+    color: #f9f5e4;
+}
+
+.fa-facebook {
+  color: red;
+}
+
+.fa-twitter {
+  color: red;
+}
+
+.fa-instagram {
+  color: red;
+}
+
+.fa-soundcloud {
+  color: red;
+}
+
+
 optgroup
   {
     font-weight:bold
