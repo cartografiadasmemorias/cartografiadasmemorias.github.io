@@ -111,10 +111,9 @@ button,input,select,textarea,optgroup{
 
 .fa {
   font-size: 25px !important;
-  width: 50px;
   text-decoration: none;
   margin: 5px 2px;
-  padding-right: 10px !important;
+  padding-right: 15px !important;
   padding-top: 25px !important;
 }
 
